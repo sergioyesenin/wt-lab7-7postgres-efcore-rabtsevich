@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\wt-lab6-6minimalapi-rabtsevich.props" />
+</Project>
