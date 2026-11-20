@@ -1,8 +1,9 @@
-namespace wt_lab6_6minimalapi_rabtsevich.Models;
+namespace wt_lab7_7postgres_efcore_rabtsevich.Models;
 
 public class Flight
 {
     public int Id { get; set; }
+    public DateTime CreatedAt { get; set; }
     public string FlightNumber { get; set; } = "";
     public string Departure { get; set; } = "";
     public string Destination { get; set; } = "";
@@ -13,4 +14,5 @@ public class Flight
     public int AirlineId { get; set; }
     public int AircraftId { get; set; }
     public string FlightType { get; set; } = "Пассажирский";
+    public string? Note { get; set; } 
 }

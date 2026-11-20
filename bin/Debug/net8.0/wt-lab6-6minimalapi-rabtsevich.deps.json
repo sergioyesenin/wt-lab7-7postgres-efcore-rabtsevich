@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "wt-lab6-6minimalapi-rabtsevich/1.0.0": {
+      "wt-lab7-7postgres-efcore-rabtsevich/1.0.0": {
         "dependencies": {
           "Swashbuckle.AspNetCore": "10.3.1"
         },
         "runtime": {
-          "wt-lab6-6minimalapi-rabtsevich.dll": {}
+          "wt-lab7-7postgres-efcore-rabtsevich.dll": {}
         }
       },
       "Microsoft.Extensions.ApiDescription.Server/8.0.0": {},
@@ -68,7 +68,7 @@
     }
   },
   "libraries": {
-    "wt-lab6-6minimalapi-rabtsevich/1.0.0": {
+    "wt-lab7-7postgres-efcore-rabtsevich/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

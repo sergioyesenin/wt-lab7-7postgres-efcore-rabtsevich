@@ -1,8 +1,9 @@
-namespace wt_lab6_6minimalapi_rabtsevich.Models;
+namespace wt_lab7_7postgres_efcore_rabtsevich.Models;
 
 public class Aircraft
 {
     public int Id { get; set; }
+    public DateTime CreatedAt { get; set; }
     public string Model { get; set; } = "";
     public string Manufacturer { get; set; } = "";
     public int SeatCapacity { get; set; }

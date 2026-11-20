@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "mH7PqjV1NkJe88gvnMgR7pfC42uYXkh7G2S1t6jDtVw=",
-  "Source": "wt-lab6-6minimalapi-rabtsevich",
-  "BasePath": "_content/wt-lab6-6minimalapi-rabtsevich",
+  "Hash": "5lybI4jbUPkPvpm/wR+T9Sw+TbH/31/E6qtVH/zZ8l8=",
+  "Source": "wt-lab7-7postgres-efcore-rabtsevich",
+  "BasePath": "_content/wt-lab7-7postgres-efcore-rabtsevich",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
